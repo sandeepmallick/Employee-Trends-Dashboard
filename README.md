@@ -29,22 +29,22 @@ This sheet serves as the primary data source for creating the dashboard.
 
 # 2. Employee Data Dashboard (VISUAL)
 1.Average Salary by Job Title:
-.Line chart showing salary variations across different roles.
+Line chart showing salary variations across different roles.
 
 2.Average Salary by Ethnicity:
-.Bar chart comparing earnings across different ethnic groups.
+Bar chart comparing earnings across different ethnic groups.
 
 3.Department-wise Salary Breakdown:
-.Pie chart representation of salary distributions per department.
+Pie chart representation of salary distributions per department.
 
 4.Attrition Analysis (Employee Exits):
-.Pie chart displaying the number of employees who have left their jobs.
+Pie chart displaying the number of employees who have left their jobs.
 
 5.Business Unit Salary Comparison:
-.Area chart showing salary differences between business units.
+Area chart showing salary differences between business units.
 
 6.Interactive Filters:
-.Gender, Department, and Hire Date filters allow deeper analysis.
+Gender, Department, and Hire Date filters allow deeper analysis.
 
 # Project Workflow
 1.Data Cleaning & Processing:
